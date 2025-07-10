@@ -1,3 +1,7 @@
+Of course. Here is the original English README, updated with the new section about the image data, also in English.
+
+-----
+
 # 🌿 Plant AI Chatbot
 
 ## Project Structure
@@ -86,3 +90,11 @@ To stop the running application, execute this command in the same terminal:
 ```bash
 docker compose down
 ```
+
+-----
+
+### ⚠️ Note on Image Data
+
+For easier sharing and a quicker startup, the current version only includes **one representative image per species**. The main features like identification and Q\&A will still function normally.
+
+However, to use the full **Image Library** feature and view all images for each species, you need to download and place the complete image database into `app/plant_data` directory.
