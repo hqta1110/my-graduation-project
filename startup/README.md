@@ -1,7 +1,3 @@
-Of course. Here is the original English README, updated with the new section about the image data, also in English.
-
------
-
 # 🌿 Plant AI Chatbot
 
 ## Project Structure
