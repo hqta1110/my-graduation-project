@@ -4,7 +4,7 @@ version: '3.8'
 #
 # Instructions:
 # 1. Make sure Docker Desktop is running.
-# 2. Create a ".env" file from the ".env.example" template and add your API keys.
+# 2. Create a ".env" file from the "sample.env" template and add your API keys.
 # 3. Run 'docker compose up' in your terminal from this folder.
 # 4. Open your browser to http://localhost:9697
 
