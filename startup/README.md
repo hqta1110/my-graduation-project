@@ -17,7 +17,7 @@ This project is organized into distinct folders to separate the different compon
     This folder stores the trained AI model checkpoints (`.pth` files). Like the data, these are downloaded from Hugging Face when the application starts.
 
   * `📁 startup/`
-    This directory holds the files needed for easy deployment by end-users. It contains the `docker-compose.yml` file and the `sample.env.txt` template.
+    This directory holds the files needed for easy deployment by end-users. It contains the `docker-compose.yml` file and the `sample.env` template.
 
 ## How to Run the Application
 
