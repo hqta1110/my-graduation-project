@@ -1,0 +1,27 @@
+# 1. Base image nhẹ, không GPU
+FROM python:3.10-slim
+
+# 2. Tạo thư mục làm việc
+WORKDIR /app
+
+# 3. Cài đặt các thư viện hệ thống cần cho OpenCV, PIL, v.v.
+RUN apt-get update && apt-get install -y \
+    libgl1-mesa-glx libglib2.0-0 libsm6 libxrender1 libxext6 \
+ && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# 4. Copy và cài requirements.txt
+COPY requirements.txt .
+
+# 5. Cài đặt Python packages, bao gồm PyTorch bản CPU
+RUN pip install --no-cache-dir torch==2.2.2+cpu torchvision==0.17.2+cpu \
+    --extra-index-url https://download.pytorch.org/whl/cpu \
+ && pip install --no-cache-dir -r requirements.txt
+
+# 6. Copy toàn bộ mã nguồn vào container
+COPY . .
+
+# 7. Mở cổng API
+EXPOSE 9696
+
+# 8. Khởi động FastAPI app
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "9696"]

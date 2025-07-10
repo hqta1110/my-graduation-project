@@ -1,0 +1,13 @@
+# Bỏ qua các file và thư mục không cần trong image
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.env
+*.pth
+*.pt
+*.ckpt
+
+models/
+data/
+temp_uploads/

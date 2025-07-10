@@ -1,0 +1,698 @@
+[
+  {
+    "question": "Cây Rau má tía có thể dùng để chữa bệnh gì và dùng như thế nào?",
+    "context": ["plant_doc_166"]
+  },
+  {
+    "question": "Cách dùng cây Thiên niên kiện để trị bệnh tê thấp?",
+    "context": ["plant_doc_023"]
+  },
+  {
+    "question": "Cây Cối xay có công dụng gì? Liều lượng ra sao?",
+    "context": ["plant_doc_016"]
+  },
+  {
+    "question": "Lá cây Khế được dùng để chữa bệnh gì ngoài da? Cách nấu nước tắm như thế nào?",
+    "context": ["plant_doc_034"]
+  },
+  {
+    "question": "Cỏ mần trầu có tác dụng gì đối với người bị huyết áp cao?",
+    "context": ["plant_doc_073"]
+  },
+  {
+    "question": "Thạch xương bồ dùng để chữa bệnh gì liên quan đến tiêu hóa?",
+    "context": ["plant_doc_041"]
+  },
+  {
+    "question": "Nêu các công dụng chữa bệnh của cây Sim?",
+    "context": ["plant_doc_083"]
+  },
+  {
+    "question": "Cây nào có thể chữa được bệnh viêm xoang mũi dị ứng?",
+    "context": ["plant_doc_018"]
+  },
+  {
+    "question": "Tôi bị đau dạ dày, có thể dùng những cây thuốc nào?",
+    "context": ["plant_doc_004", "plant_doc_023", "plant_doc_026", "plant_doc_044", "plant_doc_107", "plant_doc_116"]
+  },
+  {
+    "question": "Loại cây nào có thể dùng để chữa mụn nhọt và sưng tấy bằng cách đắp ngoài?",
+    "context": ["plant_doc_015", "plant_doc_016", "plant_doc_018", "plant_doc_023", "plant_doc_025"]
+  },
+  {
+    "question": "Bị sốt rét, có thể dùng cây Tơ xanh được không?",
+    "context": ["plant_doc_022"]
+  },
+  {
+    "question": "Cần tìm một loại cây để lợi sữa cho phụ nữ sau sinh.",
+    "context": ["plant_doc_096", "plant_doc_102", "plant_doc_138"]
+  },
+  {
+    "question": "Da bị lở loét do sơn ăn, nên dùng cây gì để chữa?",
+    "context": ["plant_doc_145", "plant_doc_034"]
+  },
+  {
+    "question": "Cây nào có tác dụng chữa đau nhức xương khớp?",
+    "context": ["plant_doc_031", "plant_doc_049", "plant_doc_084", "plant_doc_135"]
+  },
+  {
+    "question": "Trẻ em bị cam tích, suy dinh dưỡng thì dùng cây nào?",
+    "context": ["plant_doc_061", "plant_doc_098", "plant_doc_171"]
+  },
+  {
+    "question": "Bài thuốc Cao hương ngải gồm những vị thuốc nào và chữa bệnh gì?",
+    "context": ["plant_doc_185"]
+  },
+  {
+    "question": "Cây Thạch xương bồ được kết hợp với cây gì để chữa viêm tá tràng trong viên Bicalinum?",
+    "context": ["plant_doc_026", "plant_doc_041"]
+  },
+  {
+    "question": "Để chữa lở loét do sơn ăn, cây Núc nác được ngâm với gì để bôi?",
+    "context": ["plant_doc_145"]
+  },
+  {
+    "question": "Trong bài thuốc chữa đau dạ dày của Hội Đông y Thanh Hóa, lá Khôi rừng được phối hợp với các vị nào khác?",
+    "context": ["plant_doc_044"]
+  },
+  {
+    "question": "Cây Ké hoa đào kết hợp với những cây nào để chữa bệnh lỵ?",
+    "context": ["plant_doc_031"]
+  },
+  {
+    "question": "Bài thuốc \"Cao tam tài\" có những thành phần nào?",
+    "context": ["plant_doc_038", "plant_doc_052", "plant_doc_143"]
+  },
+  {
+    "question": "Có bài thuốc nào từ cây Cứt lợn để gội đầu không?",
+    "context": ["plant_doc_018"]
+  },
+  {
+    "question": "So sánh công dụng chữa bệnh lỵ của cây Sòi tía và cây Thổ phục linh.",
+    "context": ["plant_doc_033", "plant_doc_040"]
+  },
+  {
+    "question": "Cây Niệt gió có độc tính không? Cần lưu ý gì khi sử dụng?",
+    "context": ["plant_doc_085"]
+  },
+  {
+    "question": "Cây nào vừa có tác dụng chữa ho vừa chữa ỉa chảy?",
+    "context": ["plant_doc_051", "plant_doc_057", "plant_doc_110"]
+  },
+  {
+    "question": "Điểm khác biệt trong cách dùng rễ và lá của cây Sói rừng là gì?",
+    "context": ["plant_doc_081"]
+  },
+  {
+    "question": "Cây Bách bộ có thể dùng để diệt những loại côn trùng hay giun sán nào?",
+    "context": ["plant_doc_051"]
+  },
+  {
+    "question": "Nêu một bài thuốc từ cây Trâu cổ dùng để ngâm rượu.",
+    "context": ["plant_doc_188"]
+  },
+  {
+    "question": "Cây nào có thể chữa cả phù thũng và sỏi đường tiết niệu?",
+    "context": ["plant_doc_169", "plant_doc_127"]
+  },
+  {
+    "question": "Giữa cây Rau má và cây Rau má tía, cây nào được ghi nhận có công dụng chữa lợi sữa?",
+    "context": ["plant_doc_096", "plant_doc_166"]
+  },
+    {
+      "question": "Công dụng chính của cây Ích mẫu là gì?",
+      "context": [
+        "plant_doc_185"
+      ]
+    },
+    {
+      "question": "Cây Xạ đen dùng để hỗ trợ điều trị bệnh gì?",
+      "context": []
+    },
+    {
+      "question": "Cây Cà gai leo có tác dụng gì đối với gan?",
+      "context": [
+        "plant_doc_105"
+      ]
+    },
+    {
+      "question": "Kể ra các công dụng của cây Diếp cá trong y học cổ truyền.",
+      "context": []
+    },
+    {
+      "question": "Cây Trinh nữ hoàng cung thường được dùng cho các bệnh lý nào ở phụ nữ?",
+      "context": [
+        "plant_doc_020"
+      ]
+    },
+    {
+      "question": "Cây Ngải cứu có thể chữa những bệnh thông thường nào?",
+      "context": [
+        "plant_doc_185"
+      ]
+    },
+    {
+      "question": "Bị ho và có đờm, tôi có thể dùng cây thuốc nào?",
+      "context": [
+        "plant_doc_110",
+        "plant_doc_011",
+        "plant_doc_024",
+        "plant_doc_048",
+        "plant_doc_052",
+        "plant_doc_053",
+        "plant_doc_066",
+        "plant_doc_090",
+        "plant_doc_091",
+        "plant_doc_093",
+        "plant_doc_132",
+        "plant_doc_143",
+        "plant_doc_160",
+        "plant_doc_184"
+      ]
+    },
+    {
+      "question": "Loại cây nào có tác dụng chữa mất ngủ và an thần?",
+      "context": [
+        "plant_doc_017",
+        "plant_doc_047",
+        "plant_doc_105",
+        "plant_doc_130",
+        "plant_doc_132",
+        "plant_doc_140",
+        "plant_doc_149",
+        "plant_doc_157",
+        "plant_doc_161",
+        "plant_doc_162",
+        "plant_doc_196"
+      ]
+    },
+    {
+      "question": "Bị đau nhức xương khớp, có thể dùng lá cây gì để đắp hoặc sắc uống?",
+      "context": [
+        "plant_doc_009",
+        "plant_doc_023",
+        "plant_doc_031",
+        "plant_doc_049",
+        "plant_doc_082",
+        "plant_doc_084",
+        "plant_doc_106",
+        "plant_doc_111",
+        "plant_doc_135",
+        "plant_doc_180",
+        "plant_doc_184"
+      ]
+    },
+    {
+      "question": "Cây thuốc nào hiệu quả để điều trị bệnh tiêu chảy?",
+      "context": [
+        "plant_doc_004",
+        "plant_doc_033",
+        "plant_doc_055",
+        "plant_doc_061",
+        "plant_doc_096",
+        "plant_doc_118",
+        "plant_doc_139",
+        "plant_doc_174",
+        "plant_doc_192"
+      ]
+    },
+    {
+      "question": "Da bị mẩn ngứa, mụn nhọt thì nên dùng loại lá nào để tắm hoặc đắp?",
+      "context": [
+        "plant_doc_002",
+        "plant_doc_015",
+        "plant_doc_016",
+        "plant_doc_018",
+        "plant_doc_025",
+        "plant_doc_029",
+        "plant_doc_033",
+        "plant_doc_037",
+        "plant_doc_057",
+        "plant_doc_068",
+        "plant_doc_071",
+        "plant_doc_085",
+        "plant_doc_093",
+        "plant_doc_097",
+        "plant_doc_098",
+        "plant_doc_161",
+        "plant_doc_166",
+        "plant_doc_178"
+      ]
+    },
+    {
+      "question": "Cây nào có tác dụng lợi tiểu, tốt cho người bị bệnh thận?",
+      "context": [
+        "plant_doc_018",
+        "plant_doc_022",
+        "plant_doc_033",
+        "plant_doc_052",
+        "plant_doc_057",
+        "plant_doc_062",
+        "plant_doc_069",
+        "plant_doc_076",
+        "plant_doc_102",
+        "plant_doc_103",
+        "plant_doc_122",
+        "plant_doc_123",
+        "plant_doc_124",
+        "plant_doc_127",
+        "plant_doc_132",
+        "plant_doc_135",
+        "plant_doc_146",
+        "plant_doc_158",
+        "plant_doc_170",
+        "plant_doc_198"
+      ]
+    },
+    {
+      "question": "Khi bị sốt cao, có thể dùng cây gì để hạ sốt?",
+      "context": [
+        "plant_doc_001",
+        "plant_doc_016",
+        "plant_doc_018",
+        "plant_doc_021",
+        "plant_doc_022",
+        "plant_doc_026",
+        "plant_doc_030",
+        "plant_doc_039",
+        "plant_doc_056",
+        "plant_doc_057",
+        "plant_doc_061",
+        "plant_doc_064",
+        "plant_doc_067",
+        "plant_doc_073",
+        "plant_doc_082",
+        "plant_doc_085",
+        "plant_doc_091",
+        "plant_doc_093",
+        "plant_doc_112",
+        "plant_doc_115",
+        "plant_doc_122",
+        "plant_doc_123",
+        "plant_doc_126",
+        "plant_doc_132",
+        "plant_doc_136",
+        "plant_doc_160",
+        "plant_doc_161",
+
+        "plant_doc_165",
+        "plant_doc_166",
+        "plant_doc_174"
+      ]
+    },
+    {
+      "question": "Có cây thuốc nào giúp điều hòa kinh nguyệt không?",
+      "context": [
+        "plant_doc_011",
+        "plant_doc_047",
+        "plant_doc_065",
+        "plant_doc_077",
+        "plant_doc_116",
+        "plant_doc_132",
+        "plant_doc_136",
+        "plant_doc_138",
+        "plant_doc_185",
+        "plant_doc_194"
+      ]
+    },
+    {
+      "question": "Liều lượng sử dụng của Tâm sen để chữa mất ngủ là bao nhiêu?",
+      "context": []
+    },
+    {
+      "question": "Mô tả cách sắc uống cây Cỏ mực để chữa bệnh.",
+      "context": []
+    },
+    {
+      "question": "Bài thuốc 'Độc hoạt tang ký sinh' được bào chế như thế nào?",
+      "context": []
+    },
+    {
+      "question": "Cây Mã đề cần được chế biến ra sao trước khi sử dụng?",
+      "context": [
+        "plant_doc_031"
+      ]
+    },
+    {
+      "question": "Liều dùng hàng ngày của rễ cây Đinh lăng khô là bao nhiêu gam?",
+      "context": []
+    },
+    {
+      "question": "Nêu cách dùng cụ thể của cây Bồ công anh để chữa tắc tia sữa.",
+      "context": [
+        "plant_doc_044"
+      ]
+    },
+    {
+      "question": "Bài thuốc 'Bát trân thang' có những thành phần nào?",
+      "context": []
+    },
+    {
+      "question": "So sánh công dụng chữa bệnh trĩ của cây Diếp cá và cây Lược vàng.",
+      "context": []
+    },
+    {
+      "question": "Có bài thuốc nào kết hợp giữa Gừng và Sả để giải cảm không?",
+      "context": [
+        "plant_doc_132"
+      ]
+    },
+    {
+      "question": "Những người nào không nên sử dụng cây Ích mẫu?",
+      "context": [
+        "plant_doc_185"
+      ]
+    },
+    {
+      "question": "Cây nào vừa có tác dụng chữa ho vừa chữa ỉa chảy?",
+      "context": [
+        "plant_doc_132",
+        "plant_doc_139"
+      ]
+    },
+    {
+      "question": "Điểm khác biệt trong cách dùng rễ và lá của cây Sói rừng là gì?",
+      "context": [
+        "plant_doc_081"
+      ]
+    },
+    {
+      "question": "Cây Bách bộ có thể dùng để diệt những loại côn trùng hay giun sán nào?",
+      "context": [
+        "plant_doc_051"
+      ]
+    },
+    {
+      "question": "Nêu một bài thuốc từ cây Trâu cổ dùng để ngâm rượu.",
+      "context": [
+        "plant_doc_188"
+      ]
+    },
+    {
+      "question": "Cây nào có thể chữa cả phù thũng và sỏi đường tiết niệu?",
+      "context": [
+        "plant_doc_004",
+        "plant_doc_022",
+        "plant_doc_033",
+        "plant_doc_049",
+        "plant_doc_055",
+        "plant_doc_059",
+        "plant_doc_061",
+        "plant_doc_102",
+        "plant_doc_124",
+        "plant_doc_127",
+        "plant_doc_146",
+        "plant_doc_158",
+        "plant_doc_169"
+      ]
+    },
+    {
+      "question": "Khi bị đau bụng và ăn không tiêu, có thể dùng cây gì?",
+      "context": [
+        "plant_doc_005",
+        "plant_doc_009",
+        "plant_doc_049",
+        "plant_doc_074",
+        "plant_doc_096",
+        "plant_doc_118",
+        "plant_doc_137",
+        "plant_doc_142",
+        "plant_doc_153",
+        "plant_doc_177",
+        "plant_doc_185",
+        "plant_doc_190"
+      ]
+    },
+    {
+      "question": "Loại lá nào có thể giã nát để đắp chữa mụn nhọt ngoài da?",
+      "context": [
+        "plant_doc_002",
+        "plant_doc_015",
+        "plant_doc_016",
+        "plant_doc_023",
+        "plant_doc_033",
+        "plant_doc_037",
+        "plant_doc_093",
+        "plant_doc_163",
+        "plant_doc_166"
+      ]
+    },
+    {
+      "question": "Loại cây nào có tác dụng trị ho, đặc biệt là ho lâu ngày?",
+      "context": [
+        "plant_doc_011",
+        "plant_doc_024",
+        "plant_doc_042",
+        "plant_doc_048",
+        "plant_doc_051",
+        "plant_doc_052",
+        "plant_doc_053",
+        "plant_doc_066",
+        "plant_doc_090",
+        "plant_doc_091",
+        "plant_doc_093",
+        "plant_doc_132",
+        "plant_doc_145",
+        "plant_doc_160",
+        "plant_doc_166",
+        "plant_doc_184",
+        "plant_doc_192"
+      ]
+    },
+    {
+      "question": "Tôi bị đau lưng và nhức mỏi chân tay, có cây thuốc nào chữa được không?",
+      "context": [
+        "plant_doc_049",
+        "plant_doc_078",
+        "plant_doc_106",
+        "plant_doc_114",
+        "plant_doc_120",
+        "plant_doc_135",
+        "plant_doc_186"
+      ]
+    },
+    {
+      "question": "Cây nào có công dụng điều hòa kinh nguyệt hoặc trị đau bụng kinh?",
+      "context": [
+        "plant_doc_011",
+        "plant_doc_023",
+        "plant_doc_047",
+        "plant_doc_065",
+        "plant_doc_077",
+        "plant_doc_116",
+        "plant_doc_132",
+        "plant_doc_136",
+        "plant_doc_138",
+        "plant_doc_185",
+        "plant_doc_194"
+      ]
+    },
+    {
+      "question": "Bị ngã bầm tím, sưng tấy thì dùng cây gì để đắp?",
+      "context": [
+        "plant_doc_019",
+        "plant_doc_025",
+        "plant_doc_033",
+        "plant_doc_037",
+        "plant_doc_043",
+        "plant_doc_053",
+        "plant_doc_077",
+        "plant_doc_098",
+        "plant_doc_114",
+        "plant_doc_138",
+        "plant_doc_148",
+        "plant_doc_184"
+      ]
+    },
+    {
+      "question": "Tìm các loại cây có thể dùng để hạ sốt hoặc chữa cảm mạo.",
+      "context": [
+        "plant_doc_001",
+        "plant_doc_018",
+        "plant_doc_019",
+        "plant_doc_021",
+        "plant_doc_022",
+        "plant_doc_030",
+        "plant_doc_031",
+        "plant_doc_039",
+        "plant_doc_046",
+        "plant_doc_050",
+        "plant_doc_060",
+        "plant_doc_064",
+        "plant_doc_067",
+        "plant_doc_073",
+        "plant_doc_082",
+        "plant_doc_091",
+        "plant_doc_093",
+        "plant_doc_098",
+        "plant_doc_112",
+        "plant_doc_115",
+        "plant_doc_122",
+        "plant_doc_126",
+        "plant_doc_132",
+        "plant_doc_136",
+        "plant_doc_160",
+        "plant_doc_161",
+        "plant_doc_165",
+        "plant_doc_166",
+        "plant_doc_167",
+        "plant_doc_201"
+      ]
+    },
+    {
+      "question": "Cây nào có thể chữa rắn cắn?",
+      "context": [
+        "plant_doc_021",
+        "plant_doc_031",
+        "plant_doc_033",
+        "plant_doc_046",
+        "plant_doc_057",
+        "plant_doc_061",
+        "plant_doc_068",
+        "plant_doc_088",
+        "plant_doc_105",
+        "plant_doc_110",
+        "plant_doc_114",
+        "plant_doc_120",
+        "plant_doc_132",
+        "plant_doc_144",
+        "plant_doc_170",
+        "plant_doc_171",
+        "plant_doc_187",
+        "plant_doc_192"
+      ]
+    },
+    {
+      "question": "Tôi cần tìm thảo dược chữa bệnh viêm gan.",
+      "context": [
+        "plant_doc_006",
+        "plant_doc_014",
+        "plant_doc_022",
+        "plant_doc_028",
+        "plant_doc_032",
+        "plant_doc_042",
+        "plant_doc_061",
+        "plant_doc_082",
+        "plant_doc_090",
+        "plant_doc_093",
+        "plant_doc_116",
+        "plant_doc_131",
+        "plant_doc_146",
+        "plant_doc_158",
+        "plant_doc_206"
+      ]
+    },
+    {
+      "question": "Có cây nào trị được bệnh lỵ không?",
+      "context": [
+        "plant_doc_012",
+        "plant_doc_025",
+        "plant_doc_027",
+        "plant_doc_031",
+        "plant_doc_039",
+        "plant_doc_046",
+        "plant_doc_061",
+        "plant_doc_068",
+        "plant_doc_088",
+        "plant_doc_091",
+        "plant_doc_122",
+        "plant_doc_132",
+        "plant_doc_144",
+        "plant_doc_158",
+        "plant_doc_160",
+        "plant_doc_174",
+        "plant_doc_185",
+        "plant_doc_188",
+        "plant_doc_206"
+      ]
+    },
+    {
+      "question": "Bị viêm họng, sưng amygdal nên dùng cây gì?",
+      "context": [
+        "plant_doc_018",
+        "plant_doc_019",
+        "plant_doc_031",
+        "plant_doc_055",
+        "plant_doc_068",
+        "plant_doc_077",
+        "plant_doc_082",
+        "plant_doc_093",
+        "plant_doc_132",
+        "plant_doc_161",
+        "plant_doc_174",
+        "plant_doc_180",
+        "plant_doc_202"
+      ]
+    },
+    {
+      "question": "Tìm cây thuốc có tác dụng làm thuốc bổ, bồi bổ cơ thể.",
+      "context": [
+        "plant_doc_008",
+        "plant_doc_023",
+        "plant_doc_039",
+        "plant_doc_052",
+        "plant_doc_064",
+        "plant_doc_076",
+        "plant_doc_090",
+        "plant_doc_102",
+        "plant_doc_124",
+        "plant_doc_132",
+        "plant_doc_140",
+        "plant_doc_147",
+        "plant_doc_159",
+        "plant_doc_174",
+        "plant_doc_188",
+        "plant_doc_192"
+      ]
+    },
+    {
+      "question": "Loại cây nào có thể dùng để chữa bệnh trĩ?",
+      "context": [
+        "plant_doc_006",
+        "plant_doc_028",
+        "plant_doc_037",
+        "plant_doc_049",
+        "plant_doc_080",
+        "plant_doc_082",
+        "plant_doc_103",
+        "plant_doc_132",
+        "plant_doc_188"
+      ]
+    },
+    {
+      "question": "Có cây nào trị được giun sán không?",
+      "context": [
+        "plant_doc_004",
+        "plant_doc_051",
+        "plant_doc_055",
+        "plant_doc_057",
+        "plant_doc_072",
+        "plant_doc_124",
+        "plant_doc_132",
+        "plant_doc_158",
+        "plant_doc_167",
+        "plant_doc_189",
+        "plant_doc_192",
+        "plant_doc_208"
+      ]
+    },
+    {
+      "question": "Tôi cần một loại thảo dược giúp cầm máu vết thương.",
+      "context": [
+        "plant_doc_004",
+        "plant_doc_018",
+        "plant_doc_019",
+        "plant_doc_057",
+        "plant_doc_082",
+        "plant_doc_100",
+        "plant_doc_108",
+        "plant_doc_111",
+        "plant_doc_114",
+        "plant_doc_135",
+        "plant_doc_155",
+        "plant_doc_158",
+        "plant_doc_170",
+        "plant_doc_206"
+      ]
+    }
+]

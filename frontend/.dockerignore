@@ -1,0 +1,35 @@
+# Ignore node_modules because we'll run npm install inside container
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment and build-related configs
+.env
+.env.local
+.env.development
+.env.production
+.vscode
+.idea
+
+# Optional: ignore test coverage and local reports
+coverage/
+*.test.*
+*.spec.*
+__tests__/
+
+# Ignore Git
+.git
+.gitignore
+
+# Optional: ignore frontend framework's dev artifacts
+*.swp
+*.swo
+*.bak
+
+# Build output (optional, only if you build locally instead of in Docker)
+build/
+dist/
