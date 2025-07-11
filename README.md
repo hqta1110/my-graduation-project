@@ -19,6 +19,8 @@ This project is organized into distinct folders to separate the different compon
   * `📁 startup/`
     This directory holds the files needed for easy deployment by end-users. It contains the `docker-compose.yml` file and the `sample.env.txt` template.
 
+-----
+
 ## How to Run the Application
 
 These instructions are for end-users who have been given the `startup` folder.
@@ -86,3 +88,11 @@ To stop the running application, execute this command in the same terminal:
 ```bash
 docker compose down
 ```
+
+-----
+
+### Note on Feature Availability
+
+For the purpose of easy sharing and a fast setup for the end-user, the **Image Library feature is limited**. Other features like **Q\&A and plant identification still function normally**.
+
+To achieve full functionality, users must upload the complete image data into the `app/plant_data` folder, with images organized into species-specific subdirectories as was originally structured.
