@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # Connect to MongoDB
-client = MongoClient('mongodb+srv://hoquocthienanh:11102003@cluster0.ezt6v0r.mongodb.net/')
+client = MongoClient('')
 db = client['plant_database']  # Your database name
 
 # Create collections

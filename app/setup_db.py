@@ -28,7 +28,7 @@ class PlantDBService:
             return
             
         # Get connection details from env vars or parameters
-        self.connection_string = connection_string or os.environ.get("MONGODB_URI", "mongodb+srv://hoquocthienanh:11102003@cluster0.ezt6v0r.mongodb.net/")
+        self.connection_string = connection_string or os.environ.get("MONGODB_URI", "")
         self.db_name = db_name or os.environ.get("MONGODB_DB", "plant_database")
         
         # Initialize without connecting
