@@ -1,4 +1,43 @@
 # 🌿 Plant AI Chatbot
+## Overview
+
+**Plant AI Chatbot** is an intelligent plant recognition and knowledge assistant.  
+It combines **computer vision**, **natural language processing**, and **retrieval-based search** to help users:
+
+- **Identify plant species from images** using a hybrid deep learning classifier (ConvNeXt V2 + Vision Transformer).
+- **Retrieve visually similar plants** via an optimized FAISS-powered image search engine.
+- **Answer plant-related questions** (including medicinal uses, growing conditions, and botanical details) using an LLM integrated with a RAG (Retrieval-Augmented Generation) system.
+- **Provide structured plant metadata** from curated datasets, with optional MongoDB backend for large-scale deployments.
+
+The chatbot is designed for botanists, herbal medicine practitioners, hobbyists, and researchers who need **fast and accurate plant information**.
+
+---
+
+## Key Features
+
+1. **Image Classification**  
+   - Upload one or multiple plant images.
+   - Returns top-k predicted species with confidence scores.
+   - Shows representative images for each predicted class.
+
+2. **Image Retrieval**  
+   - Finds plants with similar visual features.
+   - Uses FAISS for efficient similarity search on large plant image datasets.
+
+3. **Natural Language Q&A**  
+   - Answers botanical and medicinal questions in Vietnamese (supports other languages with proper model configuration).
+   - Distinguishes between **general** and **medical** queries.
+   - Enforces strict safety rules for health-related advice.
+
+4. **Metadata Browsing**  
+   - Access structured plant data including scientific name, Vietnamese name, medicinal properties, and more.
+   - Supports both JSON-based data and MongoDB backend.
+
+5. **Containerized Deployment**  
+   - Runs entirely in Docker.
+   - Downloads model checkpoints and data from Hugging Face at startup.
+
+---
 
 ## Project Structure
 
